@@ -1,0 +1,1 @@
+The Bank Management System is a backend application developed in C++ to manage various banking operations. It offers functionalities for account management, transaction processing, balance inquiries, and report generation. This system ensures secure and efficient handling of customer accounts and transactions, providing a robust backend solution for banking operations.
